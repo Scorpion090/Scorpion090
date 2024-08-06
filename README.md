@@ -6,15 +6,15 @@
 <h3 align="center">Building intelligent systems through innovative machine and deep learning solutions.</h3>
 
 
-- 🔭 I’m currently working on **Machine Learning and Deep Learning projects**
+- I’m currently working on **Machine Learning and Deep Learning projects**
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+- I’m currently learning **Machine Learning and Deep Learning**
 
-- 👯 I’m looking to collaborate on **Building Artificial Neural Network(ANN)**
+- I’m looking to collaborate on **Building Artificial Neural Network(ANN)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Scorpion090](https://github.com/Scorpion090)
+- All of my projects are available at [https://github.com/Scorpion090](https://github.com/Scorpion090)
 
-- 📫 How to reach me **rathodrohan040@gmail.com**
+- How to reach me **rathodrohan040@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
