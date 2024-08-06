@@ -1,4 +1,4 @@
-<img align="center" src="https://media.licdn.com/dms/image/D4E16AQHXeZGjmZ-JAA/profile-displaybackgroundimage-shrink_350_1400/0/1719650381463?e=1728518400&v=beta&t=miUgtw6OReSnn7GA3QW3LrdXrWKbKfc4hA1fntUy21c" width="1600" height="400" alt="AI Evolution">
+<img align="center" src="https://media.licdn.com/dms/image/D4E16AQHXeZGjmZ-JAA/profile-displaybackgroundimage-shrink_350_1400/0/1719650381463?e=1728518400&v=beta&t=miUgtw6OReSnn7GA3QW3LrdXrWKbKfc4hA1fntUy21c" width="1800" height="300" alt="AI Evolution">
 
 <h1 align="center">Hi 👋, I'm Rohan Rathore</h1>
 <h2 align="center">THINK TWICE CODE ONCE!</h2>
