@@ -1,4 +1,4 @@
-<img align="center" src="https://png.pngtree.com/thumb_back/fh260/background/20230721/pngtree-the-evolution-of-ai-exploring-deep-learning-in-artificial-intelligence-3d-image_3781149.jpg" width="1200" height="400" alt="AI Evolution">
+<img align="center" src="https://www.imf.org/-/media/Images/IMF/FANDD/hero/2023/December/hero-B2B.ashx" width="1200" height="400" alt="AI Evolution">
 
 <h1 align="center">Hi 👋, I'm Rohan Rathore</h1>
 <h2 align="center">THINK TWICE CODE ONCE!</h2>
